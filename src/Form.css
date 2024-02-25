@@ -1,0 +1,12 @@
+div form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 1em auto;
+
+}
+button{
+    margin-top: 1em;
+    width: max-content;
+    
+}
